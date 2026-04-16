@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="7">
+<mxfile host="app.diagrams.net" pages="8">
   <diagram name="IDEF0" id="PdDmVsYeoWq1dJUOayho">
     <mxGraphModel dx="1768" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1779,6 +1779,14 @@
         <mxCell id="KCIJzDmjmO77g_59xJPB-66" parent="1" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" value="Выбирает" vertex="1">
           <mxGeometry height="56.25" width="80" x="311.5" y="188.75" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WGrf8eN2EevBOAYXxTmg" name="Логическая модель">
+    <mxGraphModel dx="1366" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
