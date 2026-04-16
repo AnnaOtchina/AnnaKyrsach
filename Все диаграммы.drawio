@@ -1678,35 +1678,35 @@
         <mxCell id="KCIJzDmjmO77g_59xJPB-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Доставляется" vertex="1">
           <mxGeometry height="50" width="100.5" x="140" y="429.75" as="geometry" />
         </mxCell>
-        <mxCell id="KCIJzDmjmO77g_59xJPB-38" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
+        <mxCell id="FOaOokhluo8yaPJgDLZ7-1" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ФИО" vertex="1">
-          <mxGeometry height="20" width="39" x="108" y="60" as="geometry" />
+          <mxGeometry height="20" width="50" x="230" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="KCIJzDmjmO77g_59xJPB-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Телефон" vertex="1">
-          <mxGeometry height="20" width="60" x="61.5" y="102.5" as="geometry" />
-        </mxCell>
-        <mxCell id="KCIJzDmjmO77g_59xJPB-41" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
+        <mxCell id="FOaOokhluo8yaPJgDLZ7-3" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KCIJzDmjmO77g_59xJPB-42" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
+        <mxCell id="KCIJzDmjmO77g_59xJPB-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Телефон" vertex="1">
+          <mxGeometry height="20" width="66" x="80" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FOaOokhluo8yaPJgDLZ7-2" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Почта" vertex="1">
-          <mxGeometry height="20" width="39" x="162" y="40" as="geometry" />
+          <mxGeometry height="20" width="51" x="164.5" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="KCIJzDmjmO77g_59xJPB-44" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
+        <mxCell id="FOaOokhluo8yaPJgDLZ7-4" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Адрес" vertex="1">
-          <mxGeometry height="20" width="39" x="108" y="152.5" as="geometry" />
+          <mxGeometry height="20" width="52" x="50" y="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="KCIJzDmjmO77g_59xJPB-46" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
+        <mxCell id="FOaOokhluo8yaPJgDLZ7-5" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Карта" vertex="1">
-          <mxGeometry height="20" width="39" x="209.5" y="50" as="geometry" />
+          <mxGeometry height="20" width="55.5" x="80" y="152.5" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-48" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-10">
           <mxGeometry relative="1" as="geometry" />
@@ -1736,7 +1736,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Характеристика" vertex="1">
-          <mxGeometry height="20" width="100" x="580" y="381.25" as="geometry" />
+          <mxGeometry height="28.75" width="100" x="580" y="381.25" as="geometry" />
         </mxCell>
         <mxCell id="RFyZFkIFj76cT82l2hGU-5" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-25">
           <mxGeometry relative="1" as="geometry" />
@@ -1745,22 +1745,22 @@
           <mxGeometry height="20" width="112" x="420" y="419.75" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-57" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_Заказа" vertex="1">
-          <mxGeometry height="20" width="60" x="102" y="574.75" as="geometry" />
+          <mxGeometry height="25.25" width="62" x="100" y="574.75" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-58" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Информация о адресе" vertex="1">
           <mxGeometry height="30" width="120" x="169" y="594.75" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_Товара" vertex="1">
-          <mxGeometry height="20" width="66" x="570" y="112.5" as="geometry" />
+          <mxGeometry height="22.5" width="66" x="570" y="110" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Общая цена" vertex="1">
           <mxGeometry height="20" width="90" x="575" y="206.88" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Кол-во товара" vertex="1">
-          <mxGeometry height="20" width="90" x="586.5" y="157.5" as="geometry" />
+          <mxGeometry height="17.5" width="90" x="586.5" y="158.75" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-62" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id_Товара" vertex="1">
-          <mxGeometry height="20" width="66" x="20" y="348.75" as="geometry" />
+          <mxGeometry height="18.75" width="76" x="20" y="350" as="geometry" />
         </mxCell>
         <mxCell id="KCIJzDmjmO77g_59xJPB-63" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Общая цена" vertex="1">
           <mxGeometry height="20" width="75" x="61.5" y="388.75" as="geometry" />
