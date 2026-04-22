@@ -850,7 +850,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YzJi4vreeTjanfVWlCU-" name="Деятельности">
-    <mxGraphModel dx="1885" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -940,7 +940,7 @@
         <mxCell id="yUq0Rj1xgFVe59qvdvEy-21" edge="1" parent="1" source="yUq0Rj1xgFVe59qvdvEy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yUq0Rj1xgFVe59qvdvEy-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yUq0Rj1xgFVe59qvdvEy-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="8. Выбрать один вариант, установить фильтрацию" vertex="1">
+        <mxCell id="yUq0Rj1xgFVe59qvdvEy-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="8. Установить фильтрацию" vertex="1">
           <mxGeometry height="40" width="140" x="60.5" y="490" as="geometry" />
         </mxCell>
         <mxCell id="yUq0Rj1xgFVe59qvdvEy-23" edge="1" parent="1" source="yUq0Rj1xgFVe59qvdvEy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yUq0Rj1xgFVe59qvdvEy-26">
@@ -953,7 +953,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUq0Rj1xgFVe59qvdvEy-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="10. Показать все доступные варианты" vertex="1">
-          <mxGeometry height="40" width="120" x="270.5" y="567.5" as="geometry" />
+          <mxGeometry height="40" width="120" x="268.88" y="567.5" as="geometry" />
         </mxCell>
         <mxCell id="yUq0Rj1xgFVe59qvdvEy-27" edge="1" parent="1" source="yUq0Rj1xgFVe59qvdvEy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yUq0Rj1xgFVe59qvdvEy-30">
           <mxGeometry relative="1" as="geometry" />
@@ -1945,7 +1945,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WGrf8eN2EevBOAYXxTmg" name="Логическая модель">
-    <mxGraphModel dx="1438" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
