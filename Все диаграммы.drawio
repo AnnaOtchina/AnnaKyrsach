@@ -1422,7 +1422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zcnajRtAMiWUeyCJi5S6" name="Концептуальная модель">
-    <mxGraphModel dx="2102" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1607" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1569,7 +1569,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCIJzDmjmO77g_59xJPB-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Доставляется" vertex="1">
+        <mxCell id="KCIJzDmjmO77g_59xJPB-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Выполняется" vertex="1">
           <mxGeometry height="50" width="100.5" x="179" y="700" as="geometry" />
         </mxCell>
         <mxCell id="FOaOokhluo8yaPJgDLZ7-1" edge="1" parent="1" source="KCIJzDmjmO77g_59xJPB-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="KCIJzDmjmO77g_59xJPB-5">
