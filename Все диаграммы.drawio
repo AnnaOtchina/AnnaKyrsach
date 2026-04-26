@@ -2919,7 +2919,7 @@
           <mxGeometry height="97.5" width="25" x="27.5" y="302.5" as="geometry" />
         </mxCell>
         <mxCell id="toeFbmjd3t8FpF_Fz27Q-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7. Добавить товар в корзину" vertex="1">
-          <mxGeometry height="60" width="140" x="43.75" y="390" as="geometry" />
+          <mxGeometry height="60" width="165" x="40" y="382.5" as="geometry" />
         </mxCell>
         <mxCell id="toeFbmjd3t8FpF_Fz27Q-37" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" target="toeFbmjd3t8FpF_Fz27Q-38" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -2931,7 +2931,7 @@
           <mxGeometry height="30" width="10" x="35" y="450" as="geometry" />
         </mxCell>
         <mxCell id="toeFbmjd3t8FpF_Fz27Q-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8. Открыть окно для оформления заказа" vertex="1">
-          <mxGeometry height="40" width="140" x="43.75" y="450" as="geometry" />
+          <mxGeometry height="40" width="140" x="52.5" y="450" as="geometry" />
         </mxCell>
         <mxCell id="toeFbmjd3t8FpF_Fz27Q-40" edge="1" parent="1" source="CbAMaO9ZvvxL6lRzf6_c-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="toeFbmjd3t8FpF_Fz27Q-50">
           <mxGeometry relative="1" as="geometry">
